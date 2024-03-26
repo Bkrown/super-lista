@@ -26,7 +26,8 @@ function renderLista() {
 
                     <!-- Icono de producto -->
                     <span class="mdl-list__item-primary-content w-10">
-                        <i class="material-icons mdl-list__item-icon">person</i>
+                        <i class="material-icons mdl-list__item-icon">
+                        shopping_cart</i>
                     </span>
 
                     <!-- Nombre de producto -->
